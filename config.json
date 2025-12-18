@@ -1,0 +1,22 @@
+{
+  "websites": [
+    {
+      "url": "https://www.bbc.co.uk/news",
+      "name": "BBC News",
+      "selector": "main"  // Optional: limit to <main> content
+    }
+  ],
+  "notifications": {
+    "email": {
+      "enabled": true,
+      "smtp_server": "smtp.gmail.com",
+      "smtp_port": 465,
+      "sender_email": "you@gmail.com",
+      "sender_password": "your-16-digit-app-password",
+      "recipient_email": "you@example.com",
+      "use_ssl": true
+    }
+  },
+  "check_interval": 3600,
+  "min_change_chars": 50
+}
