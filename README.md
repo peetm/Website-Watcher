@@ -1,4 +1,4 @@
-# Website Change Monitor
+# Website Change Monitor (needs some work)
 
 A lightweight, reliable Python tool that monitors websites for changes and sends **beautiful, Outlook-friendly HTML email notifications** when **new content is added**.
 
@@ -12,7 +12,6 @@ Perfect for tracking:
 
 Only **new added sentences** are highlighted — no removed content, no HTML tags, no image alt text or navigation noise.
 
-![Email Example](https://via.placeholder.com/800x600.png?text=Example+HTML+Email+Notification+(Clean+and+Professional))  
 *(Actual emails render cleanly in Outlook, Gmail, and other clients)*
 
 ## Features
